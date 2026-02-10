@@ -5,7 +5,7 @@ import logging.handlers
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.dispatcher.middlewares.base import BaseMiddleware
-import dev
+from bot import dev
 from handlers import meneger
 import sqlite3
 from bot.config import DB_PATH
