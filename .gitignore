@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.log
+*.db
+*.sqlite3
+venv/
+.venv/
+backup/
+*.bak
+.DS_Store
+bot.db
+users.db
+db.sqlite3
+bot.log
+*.pyc
+__pycache__
